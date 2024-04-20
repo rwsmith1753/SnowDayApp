@@ -10,3 +10,9 @@ out/
 .project
 .settings
 .classpath
+.vscode/
+bin/
+gradle/
+*.jar
+*.bat
+.gitpod.yml
